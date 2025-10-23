@@ -76,3 +76,5 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/GabrielLomtatidze/GabrielLomtatidze/output/snake.svg" alt="Snake animation" />
