@@ -9,8 +9,8 @@
 <img align="right" height="168" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpjYWtwaG9kdWsxNm01OGpuMXYwcmJxbXZjNjE0em14bWlxenVwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 ###
 
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielLomtatidze&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="170" alt="languages graph"  />
+<div align="center">
 </div>
 
 ###
