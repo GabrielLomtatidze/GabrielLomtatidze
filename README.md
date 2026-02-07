@@ -5,7 +5,6 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=GabrielLomtatidze.GabrielLomtatidze&"  />
 
 ###
-
 <img align="right" height="168" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpjYWtwaG9kdWsxNm01OGpuMXYwcmJxbXZjNjE0em14bWlxenVwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 ###
 
