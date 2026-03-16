@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋! My name is Gabriel and I'm a Software Engineer from Georgia.</h2>
-
 ###
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=GabrielLomtatidze.GabrielLomtatidze&"  />
